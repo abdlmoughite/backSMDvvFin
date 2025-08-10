@@ -13,6 +13,7 @@ class groubcouste extends Controller
         groubcoustemodel::create([
             'date_coust' => $request->date_coust,
             'coust' => $request->coust,
+            'name_produit' => $request->name_produit
         ]);
         return response()->json(['message' => 'Coust added successfully'], 201);
     }
@@ -35,19 +36,34 @@ class groubcouste extends Controller
     public function edit_commande_coust_jour(Request $request)
     {
         $commande = Commande::find($request->id_commande);
+        $coustgroub_id = $request->coustgroub_id;
+
+        $total_commande = Commande::where("coustgroub_id", "=", $request->coustgroub_id)->get();
+        $count_commande = $total_commande->count();
+
+        $groubcoust = groubcoustemodel::find($request->coustgroub_id);
+        $cost_jour = $groubcoust->coust;
+
         if ($commande) {
             $commande->coustgroub_id = $request->coustgroub_id;
+            $commande->cost = $cost_jour/($count_commande+1);
             $commande->save();
+            foreach ($total_commande as $cmd) {
+                    $cmd->cost = $cost_jour/($count_commande+1);
+                    $cmd->save();
+            }
             return response()->json(['message' => 'Commande updated successfully'], 200);
         } else {
             return response()->json(['message' => 'Commande not found'], 404);
         }
     }
+
+
 public function edit_coust_cmd(Request $request)
 {
     $commandes = $request->commandes;
     $total_commandes = count($commandes);
-    $cost = $request->cost;
+    $cost = $request->coust;
 
     if ($total_commandes == 0) {
         return response()->json(['message' => 'Aucune commande à mettre à jour.'], 400);

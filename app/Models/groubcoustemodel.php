@@ -12,6 +12,6 @@ class groubcoustemodel extends Model
     public $timestamps = true;
     public $table = 'groubcoust';
     public $fillable = [
-        'coust','date_coust'
+        'coust','date_coust' , 'name_produit'
     ];
 }
