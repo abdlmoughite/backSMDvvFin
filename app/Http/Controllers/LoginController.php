@@ -12,7 +12,6 @@ use Illuminate\Support\Facades\Validator;
 class LoginController extends Controller
 {
     public function register(Request $request){
-        //return $request;
         // Validez les données d'entrée si nécessaire
         $validator = Validator::make($request->all(), [
             'name'=>'required|string|max:255',
@@ -63,7 +62,7 @@ class LoginController extends Controller
 
 
     public function login(Request $request){
-        //return "hello word";
+        
         if(!Auth::attempt(['email' => $request->email, 'password' => $request->password])){
             return response()->json([
                 'success'=>false,

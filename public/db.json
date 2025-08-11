@@ -1,398 +1,14 @@
 {
-    "commande": [
-        {
-            "id_commande": "1752851968800",
-            "nom_client": "Ilyass mouhssine",
-            "numero_client": "0622050198",
-            "adresse_client": "Adresse: Tafoukt immeuble 12 dcheira el jihadia",
-            "ville": "Agadir",
-            "ville_id": "37",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "Watsp: 0622050198 \/\/ 3 noir",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660654345"
-        },
-        {
-            "id_commande": "1752851968801",
-            "nom_client": "taha bedraoui",
-            "numero_client": "0709270001",
-            "adresse_client": "el jadida rue des facultés residence el mouna",
-            "ville": "El Jadida",
-            "ville_id": "109",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 179,
-            "commantaire": "scren",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660699f5a"
-        },
-        {
-            "id_commande": "1752851968802",
-            "nom_client": "Oizidi Abdelali",
-            "numero_client": "0631800652",
-            "adresse_client": "Fkih ben Salah",
-            "ville": "Fquih Ben Salah",
-            "ville_id": "139",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "3 pochette",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a6606db2f1"
-        },
-        {
-            "id_commande": "1752851968803",
-            "nom_client": "Anas",
-            "numero_client": "0650459075",
-            "adresse_client": "Socoma 1 n°1996",
-            "ville": "Marrakech",
-            "ville_id": "199",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "pochette",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660726f9f"
-        },
-        {
-            "id_commande": "1752851968804",
-            "nom_client": "samir lhendouzi",
-            "numero_client": "0601868752‬",
-            "adresse_client": "Taza bin jradi immeuble sdi9i",
-            "ville": "TAZA-VILLE",
-            "ville_id": "1872",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 130,
-            "commantaire": null,
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a66076a72f"
-        },
-        {
-            "id_commande": "1752851968805",
-            "nom_client": "RADOUANE",
-            "numero_client": "0631871657",
-            "adresse_client": "Marrakech sidi youssf ben ali chari3 7man ftwaki",
-            "ville": "Marrakech",
-            "ville_id": "199",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "3 pochette",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a6607c897f"
-        },
-        {
-            "id_commande": "1752851968806",
-            "nom_client": "mohammed",
-            "numero_client": "0644949695",
-            "adresse_client": "Mahata jadida 9odam satob",
-            "ville": "ASILAH VILLE",
-            "ville_id": "1898",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "3 noir",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660841a3d"
-        },
-        {
-            "id_commande": "1752851968808",
-            "nom_client": "abderrahim",
-            "numero_client": "0644073615",
-            "adresse_client": "Firdaws hda mahata taxi kbira\/9bel 1 sbah",
-            "ville": "Mohammedia",
-            "ville_id": "345",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 290,
-            "commantaire": "2x 3 pochette",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660892942"
-        },
-        {
-            "id_commande": "1752851968809",
-            "nom_client": "Ahmed Rayane El Amoud",
-            "numero_client": "0661153281",
-            "adresse_client": "meknes marjane 1",
-            "ville": "Meknes",
-            "ville_id": "211",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 190,
-            "commantaire": "rose blue",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a6608d7afa"
-        },
-        {
-            "id_commande": "1752851968810",
-            "nom_client": "morad",
-            "numero_client": "0638315763",
-            "adresse_client": "centre",
-            "ville": "El Borouj-settat",
-            "ville_id": "1684",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "638315763 fiha gha whatsapp \/\/ 3 spigane",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a6609292df"
-        },
-        {
-            "id_commande": "1752851968811",
-            "nom_client": "BENHADI MONCEF",
-            "numero_client": "0650789872",
-            "adresse_client": "mdinat al lrfane , institut agronomique et veterinaire hassane 2",
-            "ville": "Rabat",
-            "ville_id": "1984",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 310,
-            "commantaire": "sakan falmadrasa \/\/ pro 2 + 3",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a6609634cf"
-        },
-        {
-            "id_commande": "1752851968812",
-            "nom_client": "Anass sendani",
-            "numero_client": "0626301044",
-            "adresse_client": "Lot Moulay dris merja fes",
-            "ville": "Fes",
-            "ville_id": "127",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "Airpods 3 Full black",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a66099e690"
-        },
-        {
-            "id_commande": "1752851968813",
-            "nom_client": "Anas",
-            "numero_client": "0608547520",
-            "adresse_client": "MAJD EL FATH 2,Bejaâd",
-            "ville": "Bejaad",
-            "ville_id": "1236",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "Airpods pro 2 avec Pochette",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a6609dba5a"
-        },
-        {
-            "id_commande": "1752851968814",
-            "nom_client": "Hamza",
-            "numero_client": "0624402218",
-            "adresse_client": "Tanger,boulafe da2ira 12",
-            "ville": "Tanger",
-            "ville_id": "289",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "Airpods 3 Full black",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660a24a78"
-        },
-        {
-            "id_commande": "1752851968815",
-            "nom_client": "abdelilah",
-            "numero_client": "0711874985",
-            "adresse_client": "tamesna nour1 groub 2",
-            "ville": "?",
-            "ville_id": null,
-            "prix_livraison": 0,
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "Airpods 3 Full black",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660a773ff"
-        },
-        {
-            "id_commande": "1752851968816",
-            "nom_client": "Noaman",
-            "numero_client": "0781340398",
-            "adresse_client": "Fkih ben salah hay klima",
-            "ville": "Fquih Ben Salah",
-            "ville_id": "139",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "Airpods pro 2 avec Pochette",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660ae00f7"
-        },
-        {
-            "id_commande": "1752851968817",
-            "nom_client": "Mhamed",
-            "numero_client": "0649163269",
-            "adresse_client": "Lotissement eddalia villa93 bouskoura",
-            "ville": "BOUSKOURA",
-            "ville_id": "421",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "Airpods pro 2 avec Pochette",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660b32016"
-        },
-        {
-            "id_commande": "1752851968818",
-            "nom_client": "Lhadi",
-            "numero_client": "0675035071",
-            "adresse_client": "القنيطرة المغرب العربي اقامة مكناس",
-            "ville": "KENITRA VILLE",
-            "ville_id": "1089",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "Airpods 3 Full black",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660b827c6"
-        },
-        {
-            "id_commande": "1752851968819",
-            "nom_client": "Ahmed",
-            "numero_client": "0608284738",
-            "adresse_client": "Guelmim \/\/ hay tayiz",
-            "ville": "Guelmim-ville",
-            "ville_id": "1824",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "pro 2",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660be2d41"
-        },
-        {
-            "id_commande": "1752851968820",
-            "nom_client": "Kamal boughaba",
-            "numero_client": "0605457570",
-            "adresse_client": "EL jadida Sa3ada 3",
-            "ville": "El Jadida",
-            "ville_id": "109",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "3 black sans pochette || بدون بوشيط",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660c52142"
-        },
-        {
-            "id_commande": "1752851968821",
-            "nom_client": "Bassou",
-            "numero_client": "0668960105",
-            "adresse_client": "Dakhla \/\/ double vois hda 9ahwat amazon",
-            "ville": "Dakhla",
-            "ville_id": "103",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "3 black sans pochette || بدون بوشيط",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660cbb93b"
-        },
-        {
-            "id_commande": "1752851968822",
-            "nom_client": "Rachid",
-            "numero_client": "0774-614692",
-            "adresse_client": "Marrakech \/\/ centre",
-            "ville": "Marrakech",
-            "ville_id": "199",
-            "prix_livraison": "35",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "3 black sans pochette || بدون بوشيط",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660d18dea"
-        },
-        {
-            "id_commande": "1752851968823",
-            "nom_client": "سعيد",
-            "numero_client": "0623173185",
-            "adresse_client": "la3raasi centre nador",
-            "ville": "Nador",
-            "ville_id": "217",
-            "prix_livraison": "45",
-            "quntite": 1,
-            "prix": 160,
-            "commantaire": "3 black sans pochette || بدون بوشيط",
-            "produit_id": null,
-            "nom_produit": null,
-            "id_user": 3,
-            "date_commande": "2025-07-18",
-            "id": "687a660d7daa0"
-        }
-    ],
+    "commande": [],
     "ville": [
+        {
+            "id": "187",
+            "REF": "LAR",
+            "NAME": "Larache",
+            "DELIVERED": "40",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
         {
             "id": "37",
             "REF": "AGA",
@@ -406,6 +22,14 @@
             "REF": "MDQ",
             "NAME": "M Diq",
             "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "49",
+            "REF": "AIL",
+            "NAME": "Ait Melloul",
+            "DELIVERED": "35",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -426,14 +50,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "55",
-            "REF": "ALC",
-            "NAME": "Al Hoceima",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "211",
             "REF": "MEK",
             "NAME": "Meknes",
@@ -442,25 +58,17 @@
             "REFUSED": "10"
         },
         {
-            "id": "49",
-            "REF": "AIL",
-            "NAME": "Ait Melloul",
-            "DELIVERED": "35",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "61",
-            "REF": "SFI",
-            "NAME": "Safi",
-            "DELIVERED": "40",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "217",
             "REF": "NAD",
             "NAME": "Nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "55",
+            "REF": "ALC",
+            "NAME": "Al Hoceima",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -482,22 +90,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "73",
-            "REF": "BML",
-            "NAME": "Beni Mellal",
-            "DELIVERED": "40",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "91",
-            "REF": "BJDR",
-            "NAME": "Boujdour",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "235",
             "REF": "AHR",
             "NAME": "Ain Harouda",
@@ -506,10 +98,10 @@
             "REFUSED": "10"
         },
         {
-            "id": "97",
-            "REF": "CSA",
-            "NAME": "Casablanca",
-            "DELIVERED": "20",
+            "id": "61",
+            "REF": "SFI",
+            "NAME": "Safi",
+            "DELIVERED": "40",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -522,9 +114,17 @@
             "REFUSED": "10"
         },
         {
-            "id": "103",
-            "REF": "DAK",
-            "NAME": "Dakhla",
+            "id": "73",
+            "REF": "BML",
+            "NAME": "Beni Mellal",
+            "DELIVERED": "40",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "91",
+            "REF": "BJDR",
+            "NAME": "Boujdour",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -546,26 +146,10 @@
             "REFUSED": "10"
         },
         {
-            "id": "109",
-            "REF": "EJD",
-            "NAME": "El Jadida",
-            "DELIVERED": "35",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "327",
             "REF": "AZ",
             "NAME": "AZROU-VILLE",
             "DELIVERED": "40",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "127",
-            "REF": "FES",
-            "NAME": "Fes",
-            "DELIVERED": "35",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -578,50 +162,10 @@
             "REFUSED": "10"
         },
         {
-            "id": "133",
-            "REF": "FNI",
-            "NAME": "Fnideq",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "339",
-            "REF": "IMZ",
-            "NAME": "IMOUZAR KANDRE",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "139",
-            "REF": "FQU",
-            "NAME": "Fquih Ben Salah",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "345",
-            "REF": "MH",
-            "NAME": "Mohammedia",
+            "id": "109",
+            "REF": "EJD",
+            "NAME": "El Jadida",
             "DELIVERED": "35",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "151",
-            "REF": "INZ",
-            "NAME": "Inzegane",
-            "DELIVERED": "35",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "157",
-            "REF": "KAS",
-            "NAME": "Kasba Tadla",
-            "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -658,34 +202,18 @@
             "REFUSED": "10"
         },
         {
+            "id": "127",
+            "REF": "FES",
+            "NAME": "Fes",
+            "DELIVERED": "35",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
             "id": "403",
             "REF": "ER",
             "NAME": "ERRAHMA VILLE",
             "DELIVERED": "30",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "409",
-            "REF": "TM",
-            "NAME": "TAMARIS",
-            "DELIVERED": "35",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "415",
-            "REF": "DR",
-            "NAME": "DAR BOUAZZA",
-            "DELIVERED": "35",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "169",
-            "REF": "KHO",
-            "NAME": "Khouribga",
-            "DELIVERED": "40",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -698,10 +226,10 @@
             "REFUSED": "10"
         },
         {
-            "id": "187",
-            "REF": "LAR",
-            "NAME": "Larache",
-            "DELIVERED": "40",
+            "id": "133",
+            "REF": "FNI",
+            "NAME": "Fnideq",
+            "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -722,6 +250,54 @@
             "REFUSED": "10"
         },
         {
+            "id": "439",
+            "REF": "SBT",
+            "NAME": "SEBT GZOULA",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "445",
+            "REF": "SRI",
+            "NAME": "Souiria",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "457",
+            "REF": "SDK",
+            "NAME": "SIDI KACEM",
+            "DELIVERED": "40",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "463",
+            "REF": "SDS",
+            "NAME": "SIDI SLIMAN",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "139",
+            "REF": "FQU",
+            "NAME": "Fquih Ben Salah",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "472",
+            "REF": "BZ",
+            "NAME": "BOUZNIKA",
+            "DELIVERED": "40",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
             "id": "478",
             "REF": "TTM",
             "NAME": "TIT MELLIL",
@@ -730,10 +306,26 @@
             "REFUSED": "10"
         },
         {
+            "id": "151",
+            "REF": "INZ",
+            "NAME": "Inzegane",
+            "DELIVERED": "35",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
             "id": "493",
             "REF": "DRW",
             "NAME": "DAROUA",
             "DELIVERED": "35",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "157",
+            "REF": "KAS",
+            "NAME": "Kasba Tadla",
+            "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -861,6 +453,22 @@
             "id": "794",
             "REF": "lMH",
             "NAME": "LMHAYA",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "801",
+            "REF": "HJK",
+            "NAME": "LHAJ KADOUR VILLE",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "20"
+        },
+        {
+            "id": "808",
+            "REF": "TWJT",
+            "NAME": "TAWJTAT",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1004,15 +612,15 @@
         {
             "id": "1061",
             "REF": "Eche",
-            "NAME": "Echemmaia",
+            "NAME": "Echammaia-youssoufia",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
         },
         {
-            "id": "1075",
-            "REF": "aita",
-            "NAME": "AIT AMIRA-AGADIR",
+            "id": "1068",
+            "REF": "BG",
+            "NAME": "Biougra ",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1037,6 +645,14 @@
             "id": "1096",
             "REF": "MHDV",
             "NAME": "MEHDIA VILLE",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1124",
+            "REF": "Kaouki",
+            "NAME": "Sidi Kaouki-ESSOUIRA",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1078,6 +694,30 @@
             "REF": "souria",
             "NAME": "El Mansouria",
             "DELIVERED": "40",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1250",
+            "REF": "RIS",
+            "NAME": "RISSANI VILLE",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1257",
+            "REF": "ARRE",
+            "NAME": "Erfoud VILLE",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1264",
+            "REF": "Miss",
+            "NAME": "Missour",
+            "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -1154,17 +794,25 @@
             "REFUSED": "10"
         },
         {
-            "id": "1398",
-            "REF": "Aion",
-            "NAME": "Layoun cherkia-العيون الشرقية",
+            "id": "1356",
+            "REF": "Nemma",
+            "NAME": "Souk Sebt Oulad Nemma",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
         },
         {
-            "id": "1412",
-            "REF": "Bir",
-            "NAME": "Bir Jdid",
+            "id": "1363",
+            "REF": "ajeb",
+            "NAME": "ElHajeb VILLE",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1384",
+            "REF": "Jer",
+            "NAME": "Jerada",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1322,6 +970,14 @@
             "REFUSED": "10"
         },
         {
+            "id": "1552",
+            "REF": "Tizt",
+            "NAME": "Tiztotin-NADOR",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
             "id": "1547",
             "REF": "Tagh",
             "NAME": "Taghazout",
@@ -1346,9 +1002,17 @@
             "REFUSED": "10"
         },
         {
-            "id": "1552",
-            "REF": "Tizt",
-            "NAME": "Tiztotin-NADOR",
+            "id": "1555",
+            "REF": "Arkman",
+            "NAME": "Kariat Arkman‎-Nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1556",
+            "REF": "Hrara",
+            "NAME": "Had Hrara-SAFI",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1370,17 +1034,17 @@
             "REFUSED": "10"
         },
         {
-            "id": "1559",
-            "REF": "Tama",
-            "NAME": "Tamansourt-Marrakech",
+            "id": "1560",
+            "REF": "OUDAY",
+            "NAME": "OUDAYA-Marrakech",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
         },
         {
-            "id": "1560",
-            "REF": "OUDAY",
-            "NAME": "OUDAYA-Marrakech",
+            "id": "1559",
+            "REF": "Tama",
+            "NAME": "Tamansourt-Marrakech",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1397,14 +1061,6 @@
             "id": "1562",
             "REF": "Ajd",
             "NAME": "Ajdir-HOUCIMA",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1563",
-            "REF": "Bouzid",
-            "NAME": "Sidi Bouzid-EL JADIDA",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1429,6 +1085,14 @@
             "id": "1566",
             "REF": "Raso",
             "NAME": "Msawar Raso",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1563",
+            "REF": "Bouzid",
+            "NAME": "Sidi Bouzid-EL JADIDA",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1498,14 +1162,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1575",
-            "REF": "Boude",
-            "NAME": "Bouderbala-MEKNES",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1576",
             "REF": "Tems",
             "NAME": "Temsia-agadir",
@@ -1530,9 +1186,9 @@
             "REFUSED": "10"
         },
         {
-            "id": "1579",
-            "REF": "Tamrag",
-            "NAME": "Tamraght",
+            "id": "1575",
+            "REF": "Boude",
+            "NAME": "Bouderbala-MEKNES",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -1746,14 +1402,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1607",
-            "REF": "SAissa",
-            "NAME": "Sidi Aissa-Beni-Mellal",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1608",
             "REF": "Jaber",
             "NAME": "idi Jaber-Beni-Mellal ",
@@ -1938,14 +1586,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1636",
-            "REF": "Bela",
-            "NAME": "Belaagid",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1637",
             "REF": "RAHM",
             "NAME": "OULED BEN RAHMOUN",
@@ -2034,14 +1674,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1653",
-            "REF": "Ter",
-            "NAME": "Teroual - Ouazzane",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1654",
             "REF": "Zou",
             "NAME": "Zoumi-Ouazzane",
@@ -2074,14 +1706,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1658",
-            "REF": "Tazi",
-            "NAME": "Sidi Allal Tazi",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1660",
             "REF": "Jem",
             "NAME": "Ain Jemaa-meknes",
@@ -2109,22 +1733,6 @@
             "id": "1667",
             "REF": "Tag",
             "NAME": "Tamegroute-zagora",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1668",
-            "REF": "Tagn",
-            "NAME": "Tagounite‬-zagora",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1669",
-            "REF": "Sah",
-            "NAME": "Khemis Sahel",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -2277,14 +1885,6 @@
             "id": "1699",
             "REF": "aka",
             "NAME": "Akka-tata",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1700",
-            "REF": "Zgd",
-            "NAME": "Foum Zguid",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -2474,22 +2074,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "463",
-            "REF": "SDS",
-            "NAME": "SIDI SLIMAN",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "472",
-            "REF": "BZ",
-            "NAME": "BOUZNIKA",
-            "DELIVERED": "40",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1736",
             "REF": "Mzdi",
             "NAME": "Mzoudia",
@@ -2541,22 +2125,6 @@
             "id": "1742",
             "REF": "Tang",
             "NAME": "Tanougha-Beni Mellal",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1743",
-            "REF": "brek",
-            "NAME": "Oulad M barek-Beni Mellal",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1744",
-            "REF": "Msa",
-            "NAME": "Ouled Moussa-Beni Mellal",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -2898,30 +2466,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1800",
-            "REF": "LHAD",
-            "NAME": "SOUK LHAD ALLAL TAZI",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1801",
-            "REF": "SWS",
-            "NAME": "SWASIYIN ALAL TAZI",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1802",
-            "REF": "amer",
-            "NAME": "Wlad amer ALAL TAZI",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1803",
             "REF": "Arba",
             "NAME": "Arba Aounate-أربعاء العونات",
@@ -2981,62 +2525,6 @@
             "id": "1813",
             "REF": "Amgan",
             "NAME": "Amerzgane-Ouarzazate",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1814",
-            "REF": "Haddou",
-            "NAME": "Ait Ben Haddou-Ouarzazate",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1815",
-            "REF": "Jelloul",
-            "NAME": "Hadd Ouled Jelloul-TAZI",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1816",
-            "REF": "Kael",
-            "NAME": "Sidi Al Kamel-TAZI",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1817",
-            "REF": "Mogz",
-            "NAME": "Mograne-TAZI",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1818",
-            "REF": "Agh",
-            "NAME": "Aghbal-BERKAN",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1819",
-            "REF": "ferkh",
-            "NAME": "ferkhana-nador",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1820",
-            "REF": "Chiker",
-            "NAME": "Bni Chiker",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -3106,6 +2594,54 @@
             "REFUSED": "10"
         },
         {
+            "id": "1831",
+            "REF": "PRT",
+            "NAME": "LAAYOUNE-PORT",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1832",
+            "REF": "PLYA",
+            "NAME": "LAAYOUNE-PLAYA",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1834",
+            "REF": "tbkh",
+            "NAME": "Tnin beni khelloug-settat",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1835",
+            "REF": "tar",
+            "NAME": "Tarfaya ville",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1836",
+            "REF": "cap",
+            "NAME": "Cap de l’eau",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1837",
+            "REF": "ishq",
+            "NAME": "Ait ishaq",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
             "id": "1838",
             "REF": "ouaoumana",
             "NAME": "Ouaoumana",
@@ -3154,26 +2690,10 @@
             "REFUSED": "10"
         },
         {
-            "id": "1845",
-            "REF": "Ma",
-            "NAME": "Ras El Ma-NADOR",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1846",
             "REF": "Mejte",
             "NAME": "Mejjat-meknes",
             "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1847",
-            "REF": "AZR",
-            "NAME": "AZRO-AGADIR",
-            "DELIVERED": "40",
             "RETURNED": "0",
             "REFUSED": "10"
         },
@@ -3386,6 +2906,14 @@
             "REFUSED": "10"
         },
         {
+            "id": "1881",
+            "REF": "Frt",
+            "NAME": "Fouwarat-meknes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
             "id": "1882",
             "REF": "agbl",
             "NAME": "aine aghbal-meknes",
@@ -3429,6 +2957,38 @@
             "id": "1887",
             "REF": "sid",
             "NAME": "Wlad sidi yhya-meknes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1888",
+            "REF": "slim",
+            "NAME": "wlad slim-meknes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1889",
+            "REF": "kdr",
+            "NAME": "Kwidar-meknes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1890",
+            "REF": "lzn",
+            "NAME": "Lozin-meknes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1891",
+            "REF": "wsln",
+            "NAME": "wislan-meknes",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -3586,22 +3146,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1912",
-            "REF": "GDR",
-            "NAME": "DAR EL GADARI",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1913",
-            "REF": "SDY",
-            "NAME": "sidi yahia elgharb",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1914",
             "REF": "sfr",
             "NAME": "sefrou",
@@ -3634,30 +3178,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1920",
-            "REF": "ghfs",
-            "NAME": "Ghafsai",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1922",
-            "REF": "ajdr",
-            "NAME": "Ajdir-taza",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1923",
-            "REF": "AKCH",
-            "NAME": "Akchour",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1924",
             "REF": "STHT",
             "NAME": "STEHAT-OUED LAOU",
@@ -3666,33 +3186,9 @@
             "REFUSED": "10"
         },
         {
-            "id": "1925",
-            "REF": "Jha",
-            "NAME": "JEBHA",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1926",
-            "REF": "RFV",
-            "NAME": "Beni-Hassan TETOUAN",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1927",
-            "REF": "skou",
-            "NAME": "Souk Tlata Tanquoub Ouazzane",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1928",
-            "REF": "skhd",
-            "NAME": "Souk al had Ouazzane",
+            "id": "1923",
+            "REF": "AKCH",
+            "NAME": "Akchour",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -3922,14 +3418,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1958",
-            "REF": "diki",
-            "NAME": "Diki_ksar sghir",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1959",
             "REF": "dly",
             "NAME": "Daliya_ksar sghir",
@@ -3938,17 +3426,17 @@
             "REFUSED": "10"
         },
         {
-            "id": "1960",
-            "REF": "wdmrs",
-            "NAME": "Wad lmarssa",
+            "id": "1958",
+            "REF": "diki",
+            "NAME": "Diki_ksar sghir",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
         },
         {
-            "id": "1961",
-            "REF": "SKTG",
-            "NAME": "Souk Tlet El Gharb",
+            "id": "1960",
+            "REF": "wdmrs",
+            "NAME": "Wad lmarssa",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -4029,14 +3517,6 @@
             "id": "1971",
             "REF": "TAMTAM",
             "NAME": "Bir Tam Tam",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
-            "id": "1972",
-            "REF": "TBD",
-            "NAME": "Ras Tabouda",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"
@@ -4178,14 +3658,6 @@
             "REFUSED": "10"
         },
         {
-            "id": "1991",
-            "REF": "MAAMRA",
-            "NAME": "MAAMORA",
-            "DELIVERED": "45",
-            "RETURNED": "0",
-            "REFUSED": "10"
-        },
-        {
             "id": "1992",
             "REF": "BHR",
             "NAME": "Sidi Allal El Bahraoui\t",
@@ -4202,9 +3674,977 @@
             "REFUSED": "10"
         },
         {
+            "id": "1994",
+            "REF": "TMSN",
+            "NAME": "TAMESNA-TEMARA",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1995",
+            "REF": "ATTQ",
+            "NAME": "AIN ATTIQ-TEMARA",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1996",
+            "REF": "HRH",
+            "NAME": "HARHOURA",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1997",
+            "REF": "SKH",
+            "NAME": "SKHIRAT",
+            "DELIVERED": "35",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1998",
+            "REF": "YHYZ",
+            "NAME": "Sidi Yahya Zaer",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "1999",
+            "REF": "MRSKH",
+            "NAME": "MERS EL KHIR",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
             "id": "2000",
             "REF": "AND",
-            "NAME": "Ain Aouda",
+            "NAME": "Ain Aouda-TEMARA",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2001",
+            "REF": "Msasa",
+            "NAME": "Massa",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2003",
+            "REF": "SKLH",
+            "NAME": "SOUK LHAD ALLAL TAZI",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2002",
+            "REF": "sdal",
+            "NAME": "sidi Allal Tazi",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2004",
+            "REF": "SWSY",
+            "NAME": "SWASIYIN ALAL TAZI",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2005",
+            "REF": "TZI",
+            "NAME": "Hadd Ouled Jelloul-TAZI",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2007",
+            "REF": "MGRN",
+            "NAME": "Mograne-TAZI",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2006",
+            "REF": "KML",
+            "NAME": "Sidi Al Kamel-TAZI",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2009",
+            "REF": "wldm",
+            "NAME": "Wlad amer-ALAL TAZI",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2008",
+            "REF": "SKTL",
+            "NAME": "Souk Tlet El Gharb",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2010",
+            "REF": "DRGDR",
+            "NAME": "DAR EL GADARI",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2011",
+            "REF": "SDYH",
+            "NAME": "sidi yahia elgharb",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2014",
+            "REF": "mssa",
+            "NAME": "massa-agadir",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2015",
+            "REF": "krch",
+            "NAME": "Ben karich-tetouan",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2016",
+            "REF": "allh",
+            "NAME": "Ain Allah-fes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2017",
+            "REF": "DOUY",
+            "NAME": "Douiyat-fes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2018",
+            "REF": "skht",
+            "NAME": "Skhinate-fes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2019",
+            "REF": "tyb",
+            "NAME": "Oulad Tayeb-fes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2022",
+            "REF": "zda",
+            "NAME": "Zouada-LAARACHE",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2023",
+            "REF": "asni",
+            "NAME": "Asni-marrakech",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2024",
+            "REF": "hmdch",
+            "NAME": "Sidi ali ben hamdoch-jadida",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2027",
+            "REF": "jhjh",
+            "NAME": "Sebt Jahjouhe-meknes",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2025",
+            "REF": "KTM",
+            "NAME": "Ketama-houcima",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2028",
+            "REF": "afra",
+            "NAME": "AFRA-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2029",
+            "REF": "jaad",
+            "NAME": "JAADAR-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2030",
+            "REF": "rss",
+            "NAME": "ROUISSI-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2031",
+            "REF": "hddn",
+            "NAME": "IHDADEN-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2032",
+            "REF": "lmml",
+            "NAME": "LOMMAL-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2033",
+            "REF": "skkjn",
+            "NAME": "ISAKKAJEN-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2034",
+            "REF": "mchrb",
+            "NAME": "IMACHROUBEN-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2035",
+            "REF": "mhrfn",
+            "NAME": "IMEHARFEN-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2036",
+            "REF": "pblw",
+            "NAME": "POBLAW-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2039",
+            "REF": "ghmr",
+            "NAME": "IGHMARIYIN-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2040",
+            "REF": "ohdn",
+            "NAME": "OUAHDANA-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2041",
+            "REF": "SLMD",
+            "NAME": "OULED SALEM-NADOR",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2042",
+            "REF": "aissan",
+            "NAME": "OULAD AISSA-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2043",
+            "REF": "IEASSEN",
+            "NAME": "IEASSEN-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2044",
+            "REF": "TMAA",
+            "NAME": "TAOUIMA-NADOR",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2045",
+            "REF": "bstn",
+            "NAME": "Quartier Al Boustane-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2046",
+            "REF": "fellah",
+            "NAME": "Douar Rja Fellah-nador",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2047",
+            "REF": "KST",
+            "NAME": "DOUAR LKASIT-NADOR",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2048",
+            "REF": "KCHD",
+            "NAME": "KACHADIA-NADOR",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2049",
+            "REF": "tndt",
+            "NAME": "Toundout-OUARZAZET",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2050",
+            "REF": "SDMOUSSA",
+            "NAME": "Sidi moussa lhamri-TAROUDANT",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2051",
+            "REF": "brhmm",
+            "NAME": "Oulad brahim-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2052",
+            "REF": "lglcha",
+            "NAME": "Ahmar laglalcha-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2053",
+            "REF": "houmer",
+            "NAME": "El houmer-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2054",
+            "REF": "boura",
+            "NAME": "El boura-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2055",
+            "REF": "tzmrt",
+            "NAME": "tazmourt-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2056",
+            "REF": "oldtrn",
+            "NAME": "oulad terna-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2057",
+            "REF": "tmlkt",
+            "NAME": "tamaloukt-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2058",
+            "REF": "nouail",
+            "NAME": "nouail-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2059",
+            "REF": "oldmhla",
+            "NAME": "oulad mhela-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2060",
+            "REF": "ighrm",
+            "NAME": "ighram-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2061",
+            "REF": "nzlt",
+            "NAME": "nzalat laadam-benguerir",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2063",
+            "REF": "salama",
+            "NAME": "Salama-ksar el kbir",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2064",
+            "REF": "sndl",
+            "NAME": "snadla-ksar el kbir",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2066",
+            "REF": "tndfl",
+            "NAME": "Tindafel-assilah",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2065",
+            "REF": "khdr",
+            "NAME": "Khdadra-ksar el kbir",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2068",
+            "REF": "riahi",
+            "NAME": "Ouled riahi-assilah",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2067",
+            "REF": "sbaita",
+            "NAME": "Oulad Sbaita-assilah",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2069",
+            "REF": "drdr",
+            "NAME": "Derdara-taroudant",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2070",
+            "REF": "KHZN",
+            "NAME": "khzana-chefchaouen",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2073",
+            "REF": "aazayeb",
+            "NAME": "aazayeb-chefchaouen",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2071",
+            "REF": "sbtmlh",
+            "NAME": "sebt malha-chefchaouen",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2074",
+            "REF": "ghnmit",
+            "NAME": "Tlat lghnimiyin-berrchid",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2076",
+            "REF": "sehoul",
+            "NAME": "sehoul-sale",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2075",
+            "REF": "jaqma",
+            "NAME": "Jaqma-berrchid",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2077",
+            "REF": "akrach",
+            "NAME": "akrach-RABAT",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2078",
+            "REF": "Taghzot",
+            "NAME": "Taghzot- tinghir ville",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2079",
+            "REF": "aithani",
+            "NAME": "Ait Hani-tinghir",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2080",
+            "REF": "hrtmrbt",
+            "NAME": "Harat el morabitine-tinghir",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2081",
+            "REF": "ksb",
+            "NAME": "Kasba tadla-oulad yaich-benimellal",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2082",
+            "REF": "ysssf",
+            "NAME": "Kasba tadla-oulad youssef-beni mellal",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2084",
+            "REF": "TGHM",
+            "NAME": "TIGHMI-tiznit",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2085",
+            "REF": "ANZI",
+            "NAME": "ANZI-TIZNIT",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2086",
+            "REF": "wrgi",
+            "NAME": "wargi-kelaa sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2088",
+            "REF": "Fraita",
+            "NAME": "Fraita-kelaa des sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2087",
+            "REF": "Assahrij",
+            "NAME": "Assahrij-KELAA DES SRAGHNA",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2089",
+            "REF": "slmnn",
+            "NAME": "Sidi Aissa Ben Slimane-kelaa des sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2090",
+            "REF": "KHLLLF",
+            "NAME": "Oulad Khallouf -Kelaâ des Sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2092",
+            "REF": "iminifri",
+            "NAME": "iminifri - kelaa des sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2091",
+            "REF": "lhmadna",
+            "NAME": "Lhmadna-kelaa des sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2093",
+            "REF": "jwala",
+            "NAME": "Jwala-kelaa des sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2094",
+            "REF": "laatmn",
+            "NAME": "Laâtamna-kelaa des sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2095",
+            "REF": "tsswt",
+            "NAME": "Tassawt-kelaa des sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2096",
+            "REF": "jmaat",
+            "NAME": "Jamaat larracha - Kelaâ des Sraghna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2097",
+            "REF": "nzalat",
+            "NAME": "Nzalat Laadam-benguerir",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2098",
+            "REF": "Mejji",
+            "NAME": "Mejji-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2099",
+            "REF": "ahdil",
+            "NAME": "Ahdil-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2101",
+            "REF": "samba",
+            "NAME": "Samba-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2102",
+            "REF": "Chemmaia",
+            "NAME": "Chemmaia-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2103",
+            "REF": "tnnjnan",
+            "NAME": "Tnin jnan bih-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2104",
+            "REF": "ighoud",
+            "NAME": "Ighoud-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2105",
+            "REF": "omara",
+            "NAME": "Douar si omara-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2106",
+            "REF": "sdzouine",
+            "NAME": "Sidi Zouine-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2107",
+            "REF": "forina",
+            "NAME": "Forina-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2108",
+            "REF": "jda",
+            "NAME": "Douar jdida-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2109",
+            "REF": "Nfifa",
+            "NAME": "Nfifa-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2110",
+            "REF": "Asif",
+            "NAME": "Asif lmal-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2111",
+            "REF": "lallaazz",
+            "NAME": "Lalla aziza-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2112",
+            "REF": "Lmakina",
+            "NAME": "Lmakina-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2113",
+            "REF": "Asseratou",
+            "NAME": "Asseratou-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2114",
+            "REF": "Nsser",
+            "NAME": " Nowasser-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2115",
+            "REF": "Beida",
+            "NAME": "Ain Beida-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2116",
+            "REF": "Tafetachte",
+            "NAME": "Tafetachte-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2117",
+            "REF": "bnga",
+            "NAME": "bouanga-chichaoua",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2118",
+            "REF": "BRKMA",
+            "NAME": "Ras El Ma-berkan",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2120",
+            "REF": "elouidd",
+            "NAME": "beni elouida-azilal",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2121",
+            "REF": "DBDO",
+            "NAME": "DEBDOU",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2124",
+            "REF": "HSSN",
+            "NAME": "Oulad hassoun-marrakech",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2125",
+            "REF": "Lata",
+            "NAME": "Laâtamna",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2126",
+            "REF": "MDA",
+            "NAME": "MDAR",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2127",
+            "REF": "Erreg",
+            "NAME": "Aïn Erreggada",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2128",
+            "REF": "tmsan",
+            "NAME": "temsamane-Driouch",
+            "DELIVERED": "45",
+            "RETURNED": "0",
+            "REFUSED": "10"
+        },
+        {
+            "id": "2129",
+            "REF": "Lamriss",
+            "NAME": "Lamriss",
             "DELIVERED": "45",
             "RETURNED": "0",
             "REFUSED": "10"

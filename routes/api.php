@@ -14,9 +14,7 @@ use App\Http\Controllers\ProduitController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\CommandeController;
 use App\Http\Controllers\PermitionController;
-// Route::get('/user', function (Request $request) {
-//     return $request->user();
-// })->middleware('auth:sanctum');
+
 Route::resource('calcul',CalculController::class)->middleware('auth:sanctum');
 Route::resource('depence',DepenceController::class)->middleware('auth:sanctum');
 Route::resource('produit',ProduitController::class)->middleware('auth:sanctum');
